@@ -44,8 +44,7 @@ function AppCard({ app }) {
   return (
     <a
       href={app.url}
-      target="_blank"
-      rel="noopener noreferrer"
+      target="_self"
       style={{
         display: 'block',
         textDecoration: 'none',

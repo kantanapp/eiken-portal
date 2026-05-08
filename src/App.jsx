@@ -24,7 +24,7 @@ const APPS = [
     color: '#8b5cf6',
     bg: 'linear-gradient(135deg, #8b5cf6 0%, #6d28d9 100%)',
     lightBg: '#f5f3ff',
-    url: 'https://41morinaga-glitch.github.io/eiken-mondai-app/',
+    url: 'https://kantanapp.github.io/eiken-mondai-app/',
   },
   {
     id: 'summary',
@@ -36,7 +36,7 @@ const APPS = [
     color: '#10b981',
     bg: 'linear-gradient(135deg, #10b981 0%, #059669 100%)',
     lightBg: '#ecfdf5',
-    url: 'https://41morinaga-glitch.github.io/eiken-app/',
+    url: 'https://kantanapp.github.io/eiken-app/',
   },
 ];
 

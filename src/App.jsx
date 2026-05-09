@@ -36,7 +36,7 @@ const APPS = [
     color: '#10b981',
     bg: 'linear-gradient(135deg, #10b981 0%, #059669 100%)',
     lightBg: '#ecfdf5',
-    url: 'https://kantanapp.github.io/eiken-app/',
+    url: 'https://kantanapp.github.io/summary/',
   },
 ];
 

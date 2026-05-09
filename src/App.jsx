@@ -17,7 +17,7 @@ const APPS = [
   {
     id: 'mondai',
     emoji: '📝',
-    title: '英検長文問題',
+    title: 'long-passage',
     subtitle: 'Reading Practice',
     description: '英検1級・2級の長文読解問題を\n本番形式で練習できます',
     tags: ['1級', '2級', '長文読解'],

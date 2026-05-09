@@ -24,7 +24,7 @@ const APPS = [
     color: '#8b5cf6',
     bg: 'linear-gradient(135deg, #8b5cf6 0%, #6d28d9 100%)',
     lightBg: '#f5f3ff',
-    url: 'https://kantanapp.github.io/eiken-mondai-app/',
+    url: 'https://kantanapp.github.io/long-passage/',
   },
   {
     id: 'summary',

@@ -38,6 +38,18 @@ const APPS = [
     lightBg: '#ecfdf5',
     url: 'https://kantanapp.github.io/summary/',
   },
+  {
+    id: 'vocab-quiz',
+    emoji: '🔤',
+    title: '単語クイズ',
+    subtitle: 'Vocabulary Quiz',
+    description: '英検1級・2級の重要単語を\n4択クイズで確認できます',
+    tags: ['1級', '2級', '単語'],
+    color: '#f59e0b',
+    bg: 'linear-gradient(135deg, #f59e0b 0%, #d97706 100%)',
+    lightBg: '#fffbeb',
+    url: 'https://kantanapp.github.io/summary/vocab-quiz/',
+  },
 ];
 
 function AppCard({ app }) {
@@ -169,7 +181,7 @@ export default function App() {
           fontWeight: 500,
           lineHeight: 1.8,
         }}>
-          単語・長文読解・要約の3つのアプリで<br />
+          単語・長文読解・要約・単語クイズの4つのアプリで<br />
           英検合格を目指そう
         </p>
       </header>

@@ -13,3 +13,14 @@ body {
 #root {
   min-height: 100vh;
 }
+
+/* カードグリッド: スマホは1列、PC(1024px以上)は4列横並び */
+.apps-grid {
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+@media (min-width: 1024px) {
+  .apps-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}

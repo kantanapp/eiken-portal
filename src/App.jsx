@@ -186,11 +186,10 @@ export default function App() {
         </p>
       </header>
 
-      <main style={{
-        maxWidth: '980px',
+      <main className="apps-grid" style={{
+        maxWidth: '1240px',
         margin: '0 auto',
         display: 'grid',
-        gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))',
         gap: '24px',
         paddingBottom: '64px',
       }}>
